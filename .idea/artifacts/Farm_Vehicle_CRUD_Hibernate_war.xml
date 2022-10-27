@@ -1,0 +1,14 @@
+<component name="ArtifactManager">
+  <artifact type="war" name="Farm_Vehicle_CRUD_Hibernate:war">
+    <output-path>$PROJECT_DIR$/target</output-path>
+    <properties id="maven-jee-properties">
+      <options>
+        <module>Farm_Vehicle_CRUD_Hibernate</module>
+        <packaging>war</packaging>
+      </options>
+    </properties>
+    <root id="archive" name="HibernateExample-1.0-SNAPSHOT.war">
+      <element id="artifact" artifact-name="Farm_Vehicle_CRUD_Hibernate:war exploded" />
+    </root>
+  </artifact>
+</component>
